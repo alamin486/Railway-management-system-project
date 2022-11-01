@@ -1,8 +1,10 @@
- 1. Move project folder to htdocs folder
+ For run this project:
+ 
+ 1st. Move project folder to htdocs folder
 
   
- 2. Restore database
+ 2nd. Restore database
 
   
- 3. Start server
+ 3rd. Start server
  
